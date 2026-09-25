@@ -1,8 +1,9 @@
 name: EnhancedSurvival
-description: Useful tools to enhance the survival experience
+version: 1.2.2
+main: com.github.bnt4.enhancedsurvival.EnhancedSurvival
+api-version: '1.21'
 author: bnt4
-version: ${project.version}
-api-version: 1.21
+description: Enhanced survival experience with gravestones and utilities.
 main: com.github.bnt4.enhancedsurvival.EnhancedSurvival
 softdepend:
   - PlaceholderAPI
